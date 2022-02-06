@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niteesh96
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML ,CSS and Javascript & C#
-- 💞️ I’m looking to collaborate on web applications 
+- 💞️ I’m looking to collaborate on web applications - front end 
 - 📫 How to reach me on Niteeshvarma76@gmail.com
 
 <!---
